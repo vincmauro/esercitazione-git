@@ -1,8 +1,8 @@
 # Agenda
-* Overview    
-* Git Basics: arseni
+* Overview: Fabio Zotti
+* Git Basics: Voltino, arseni  
 * Branching and Merging
-* Remote Repositories
-* GitFlow
+* Remote Repositories Andrea Cuzzolaro,
+* GitFlow: Carnevale
 * Pull-Requests and GitHub
-* Common Mistakes
+* Common Mistakes : Mauro
