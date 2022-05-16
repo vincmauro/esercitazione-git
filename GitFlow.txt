@@ -1,0 +1,7 @@
+E' un modello convenzionale da utilizzare per gestire al meglio Git. 
+In questo caso si creano 5 banch:
+-Master: Per la linea di produzione (non ci accediamo)
+-Hotfix: Per aggiustare rapidamente bug senza passare dalla procedura completa e rimetterlo in Master subito
+-Release
+-Develop: Dove si fondono le varie features che creiamo singolarmente
+-Features: Dove operiamo 
