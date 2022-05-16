@@ -1,1 +1,1 @@
-Se assegno un nome sbagliato ad un Branch e non ho fatto la push posso usare il comando git branch -m <nome errato> <nuovo nome>
+Se assegno un nome sbagliato ad un Branch, ma non ho fatto la push, posso usare il comando git branch -m <nome errato> <nuovo nome>
