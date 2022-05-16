@@ -1,6 +1,6 @@
 # Agenda
 * Overview    
-* Git Basics  
+* Git Basics: arseni
 * Branching and Merging
 * Remote Repositories
 * GitFlow
