@@ -3,6 +3,6 @@
 * Git Basics  
 * Branching and Merging
 * Remote Repositories
-* GitFlow
+* GitFlow: Carnevale
 * Pull-Requests and GitHub
 * Common Mistakes
