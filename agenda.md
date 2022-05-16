@@ -1,9 +1,8 @@
 # Agenda
 * Overview: Fabio Zotti
-* Git Basics  
+* Git Basics: Voltino  
 * Branching and Merging
 * Remote Repositories :Salatino 
 * GitFlow
 * Pull-Requests and GitHub
-* Common Mistakes
-     
+* Common Mistakes : Mauro
