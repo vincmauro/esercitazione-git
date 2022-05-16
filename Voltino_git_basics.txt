@@ -1,0 +1,6 @@
+Comandi principali:
+-git initi: crea una nuova git repository
+-git clone: clona una  repository già esistente locale o remota
+-git status
+-git add
+-git commit

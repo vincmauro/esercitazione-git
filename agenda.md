@@ -1,6 +1,6 @@
 # Agenda
 * Overview: Fabio Zotti
-* Git Basics  
+* Git Basics: Voltino  
 * Branching and Merging
 * Remote Repositories
 * GitFlow
