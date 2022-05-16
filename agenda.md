@@ -1,5 +1,5 @@
 # Agenda
-* Overview    
+* Overview: Caliciotti    
 * Git Basics  
 * Branching and Merging
 * Remote Repositories
