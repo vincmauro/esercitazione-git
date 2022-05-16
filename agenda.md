@@ -2,7 +2,7 @@
 * Overview    
 * Git Basics  
 * Branching and Merging
-* Remote Repositories
+* Remote Repositories: fini
 * GitFlow
 * Pull-Requests and GitHub
 * Common Mistakes
