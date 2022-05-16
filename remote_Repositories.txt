@@ -1,0 +1,1 @@
+The Git Remote allow you to create, see and delete connection to other repositories
