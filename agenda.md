@@ -1,5 +1,5 @@
 # Agenda
-* Overview    
+* Overview: Fabio Zotti
 * Git Basics  
 * Branching and Merging
 * Remote Repositories
