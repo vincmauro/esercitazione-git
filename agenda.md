@@ -1,6 +1,6 @@
 # Agenda
 * Overview: Fabio Zotti
-* Git Basics: Voltino  
+* Git Basics: Voltino, arseni  
 * Branching and Merging
 * Remote Repositories Andrea Cuzzolaro,
 * GitFlow: Carnevale
